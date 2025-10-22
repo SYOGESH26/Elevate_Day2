@@ -29,4 +29,4 @@ Understand cloud virtual machines and practice creating, configuring, and connec
 
 
 ## VM Configuration
-Refer to notes/vm_configuration.txt
+Refer to vm_configuration.txt
