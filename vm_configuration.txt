@@ -1,0 +1,3 @@
+OS: Ubuntu 22.04 LTS
+Region: eu-north-1
+Machine Type: t3-micro (Free Tier)
